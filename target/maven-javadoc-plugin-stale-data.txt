@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/sacha/Documents/NetBeansProjects/medev_tp4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sacha/Documents/NetBeansProjects/medev_tp4/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'medev_tp4 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'medev_tp4 1.0-SNAPSHOT API'
+org.centrale.medev_tp4
+sample
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\src\main\java = 1701933782362
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\allclasses-index.html = 1703148096983
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\allpackages-index.html = 1703148096987
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\copy.svg = 1703148097015
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\element-list = 1703148096915
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\help-doc.html = 1703148097010
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\index-all.html = 1703148097001
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\index.html = 1703148096974
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\member-search-index.js = 1703148096992
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\module-search-index.js = 1703148096989
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\overview-summary.html = 1703148097006
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\overview-tree.html = 1703148096971
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\package-search-index.js = 1703148096990
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\script.js = 1703148097014
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\search-page.js = 1703148097019
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\search.html = 1703148097004
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\search.js = 1703148097017
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\stylesheet.css = 1703148097012
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\tag-search-index.js = 1703148096993
+C:\Users\sacha\Documents\NetBeansProjects\medev_tp4\target\site\apidocs\type-search-index.js = 1703148096991
